@@ -1,0 +1,24 @@
+1- Set up the github repo
+    a) new env
+    b) setup.py
+    c) requirements.txt
+    d) .gitignore
+
+2- Src folder -> __init__.py and build the package
+
+3- Src folder
+    a) logger.py
+    b) exception.py
+    c) utils.py
+
+4- notebooks folder
+    a) data folder -> data.csv
+    b) EDA.ipynb
+    c) Model_training.ipynb
+
+5- Src folder -> components folder 
+    a) __init__.py and build the package
+    b) data_ingestion.py
+    c) data_transformation.py
+    d) model_trainer.py
+
