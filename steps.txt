@@ -22,3 +22,8 @@
     c) data_transformation.py
     d) model_trainer.py
 
+6- Src folder -> pipelines folder
+    a) __init__.py and build the package
+    a) predict_pipeline.py
+
+7- application.py and setup the Flask application
